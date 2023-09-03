@@ -1,0 +1,7 @@
+/Users/gagansharma/Ecommerce-SpringBoot-Microservices/Ecommerce-Project/product-service/src/main/java/com/eccomerceSpringBoot/productservice/Controller/ProductController.java
+/Users/gagansharma/Ecommerce-SpringBoot-Microservices/Ecommerce-Project/product-service/src/main/java/com/eccomerceSpringBoot/productservice/Repository/ProductRepository.java
+/Users/gagansharma/Ecommerce-SpringBoot-Microservices/Ecommerce-Project/product-service/src/main/java/com/eccomerceSpringBoot/productservice/Model/Product.java
+/Users/gagansharma/Ecommerce-SpringBoot-Microservices/Ecommerce-Project/product-service/src/main/java/com/eccomerceSpringBoot/productservice/dto/ProductRequest.java
+/Users/gagansharma/Ecommerce-SpringBoot-Microservices/Ecommerce-Project/product-service/src/main/java/com/eccomerceSpringBoot/productservice/Service/ProductService.java
+/Users/gagansharma/Ecommerce-SpringBoot-Microservices/Ecommerce-Project/product-service/src/main/java/com/eccomerceSpringBoot/productservice/dto/ProductResponse.java
+/Users/gagansharma/Ecommerce-SpringBoot-Microservices/Ecommerce-Project/product-service/src/main/java/com/eccomerceSpringBoot/productservice/ProductServiceApplication.java

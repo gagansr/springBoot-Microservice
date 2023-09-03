@@ -1,0 +1,10 @@
+com/eccomerceSpringBoot/productservice/dto/ProductRequest.class
+com/eccomerceSpringBoot/productservice/ProductServiceApplication.class
+com/eccomerceSpringBoot/productservice/Repository/ProductRepository.class
+com/eccomerceSpringBoot/productservice/Service/ProductService.class
+com/eccomerceSpringBoot/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/eccomerceSpringBoot/productservice/Model/Product.class
+com/eccomerceSpringBoot/productservice/Model/Product$ProductBuilder.class
+com/eccomerceSpringBoot/productservice/dto/ProductResponse.class
+com/eccomerceSpringBoot/productservice/Controller/ProductController.class
+com/eccomerceSpringBoot/productservice/dto/ProductRequest$ProductRequestBuilder.class
